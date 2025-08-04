@@ -12,6 +12,12 @@ header {
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }
+@media (max-width: 1080px) {
+  header {
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+}
 
 header div {
   display: flex;
