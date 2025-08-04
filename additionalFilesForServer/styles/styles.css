@@ -1,0 +1,12 @@
+html {
+    margin-left: 250px;
+    margin-right: 250px;
+    
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+body {
+    margin: 0;
+}

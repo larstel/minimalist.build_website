@@ -1,0 +1,29 @@
+main {
+    margin-top: 25vh;
+    max-width: 700px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.get-started {
+    margin-top: 50px;
+}
+
+.get-started a {
+    padding: 10px;
+    border-radius: 30px;
+    
+    font-weight: bold;
+    font-size: 1rem;
+
+    background-color: #ffa500;
+    color: white;
+
+    text-decoration: none;
+}
+
+.get-started a:hover {
+    background-color: #ffa60080;
+}

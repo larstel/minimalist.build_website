@@ -1,0 +1,3 @@
+[submodule "minimalistFramework"]
+	path = minimalistFramework
+	url = https://github.com/larstel/minimalistFramework.git
