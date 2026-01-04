@@ -1,5 +1,5 @@
 main {
-    margin-top: 25vh;
+    margin-top: 35vh;
     max-width: 700px;
     
     margin-left: auto;
@@ -27,3 +27,11 @@ main {
 .get-started a:hover {
     background-color: #ffa60080;
 }
+
+a.orange-link:link,
+a.orange-link:visited,
+a.orange-link:hover,
+a.orange-link:active {
+  color: #ffa500;
+}
+
